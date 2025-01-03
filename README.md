@@ -1,1 +1,1 @@
-This is Tailwind CSS Repo
+A Repo of Tailwind CSS
